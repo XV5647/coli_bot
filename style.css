@@ -2,7 +2,7 @@ body {
     background-image: url("gumball.jpeg");
     background-size: 100% 155%; /* Force l'étirement de l'image */
     background-repeat: no-repeat;
-    font-family: 'Times New Roman', serif;
+    font-family: 'Arial Rounded MT Bold', sans-serif;
     color: #fff;
     margin: 0;
     padding: 0;
